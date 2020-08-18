@@ -1,0 +1,15 @@
+citHeader("To cite SmartMeterAnalytics in publications, please use the most appropriate citation of the following:")
+
+citEntry(entry = "book",
+         author = "Konstantin Hopf",
+         title = "Predictive Analytics for Energy Efficiency and Energy Retailing",
+         publisher = "University of Bamberg Press",
+         year = "2019",
+         series = "Contributions of the Faculty Information Systems and Applied Computer Sciences of the University of Bamberg",
+         volume = "36",
+         isbn = "978-3-86309-669-4",
+         doi = "10.20378/irbo-54833",
+         textVersion = "K. Hopf (2019). Predictive Analytics for Energy Efficiency and Energy Retailing. Contributions of the
+                        Faculty Information Systems and Applied Computer Sciences of the University of Bamberg, Vol. 36,
+                        University of Bamberg Press"
+)
