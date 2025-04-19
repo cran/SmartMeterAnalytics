@@ -25,7 +25,7 @@ All features with NA values that are higher than this level are excluded.}
 removed. By default, half of \code{.Machine$double.eps} is used.}
 
 \item{verbose}{boolean if debug messages should be printed when a variable is removed
-from the list (uses \link{futile.logger} package)}
+from the list (uses \link[futile.logger]{flog.debug})}
 }
 \value{
 a vector of variable names that are not considered as empty

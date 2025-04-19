@@ -26,7 +26,7 @@ The division in HT / NT is done from the input smart meter data
 \references{
 Hopf, K. (2019). Predictive Analytics for Energy Efficiency and
     Energy Retailing (1st ed.). Bamberg: University of Bamberg.
-    \url{https://doi.org/10.20378/irbo-54833}
+    \doi{10.20378/irbo-54833}
 }
 \author{
 Konstantin Hopf \email{konstantin.hopf@uni-bamberg.de}

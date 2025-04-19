@@ -17,6 +17,7 @@
 #' @importFrom stinepack stinterp
 #' @importFrom zoo na.locf
 #' @details Missing values get replaced by values of a \link{approx}, \link{spline} or \link[stinepack]{stinterp} interpolation.
+#' @export
 #'
 interpolate_missingReadings <- function(timeseries, option="linear", ...){
 

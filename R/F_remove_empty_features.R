@@ -22,7 +22,7 @@
 #'    removed. By default, half of \code{.Machine$double.eps} is used.
 #' @param verbose
 #'    boolean if debug messages should be printed when a variable is removed
-#'    from the list (uses \link{futile.logger} package)
+#'    from the list (uses \link[futile.logger]{flog.debug})
 #' @return a vector of variable names that are not considered as empty
 #' @author Konstantin Hopf \email{konstantin.hopf@uni-bamberg.de}
 #' @seealso \link{naInf_omit}, \link{replaceNAsFeatures}

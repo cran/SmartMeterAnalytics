@@ -27,17 +27,17 @@
 #' @author Konstantin Hopf \email{konstantin.hopf@uni-bamberg.de}
 #' @references Hopf, K. (2019). Predictive Analytics for Energy Efficiency and
 #'     Energy Retailing (1st ed.). Bamberg: University of Bamberg.
-#'     \url{https://doi.org/10.20378/irbo-54833}
+#'     \doi{10.20378/irbo-54833}
 #' @references Hopf, K., Sodenkamp, M., Kozlovskiy, I., & Staake, T. (2014).
 #'     Feature extraction and filtering for household classification based on
 #'     smart electricity meter data. Computer Science-Research and Development,
-#'     (31) 3, 141–148. \url{https://doi.org/10.1007/s00450-014-0294-4}
+#'     (31) 3, 141–148. \doi{10.1007/s00450-014-0294-4}
 #' @references Hopf, K., Sodenkamp, M., & Staake, T. (2018). Enhancing energy
 #'     efficiency in the residential sector with smart meter data analytics.
-#'     Electronic Markets, 28(4). \url{https://doi.org/10.1007/s12525-018-0290-9}
+#'     Electronic Markets, 28(4). \doi{10.1007/s12525-018-0290-9}
 #' @references Beckel, C., Sadamori, L., Staake, T., & Santini, S. (2014).
 #'     Revealing household characteristics from smart meter data. Energy, 78,
-#'     397–410. \url{https://doi.org/10.1016/j.energy.2014.10.025}
+#'     397–410. \doi{10.1016/j.energy.2014.10.025}
 
 #' @return Character vector
 #' @export

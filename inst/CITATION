@@ -1,8 +1,8 @@
 citHeader("To cite SmartMeterAnalytics in publications, please use the most appropriate citation of the following:")
 
-citEntry(entry = "book",
-         author = "Konstantin Hopf",
+bibentry(bibtype = "Book",
          title = "Predictive Analytics for Energy Efficiency and Energy Retailing",
+         author = person("Konstantin", "Hopf", role="aut"),
          publisher = "University of Bamberg Press",
          year = "2019",
          series = "Contributions of the Faculty Information Systems and Applied Computer Sciences of the University of Bamberg",
